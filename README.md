@@ -17,7 +17,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm an Undergraduate Student 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I'm pretty familiar with **.java**, **.py**, **.js**, **.sql**, **.c++**, **.c**,
+- 💻 I'm pretty familiar with **.java**, **.py**, **.js**, **.sql**, **.c**, **.cpp**,
 - ⚽ I'm a footballer and played for Phoenix F.C Bengaluru, Majaz F.C
 - 💬 Talk to me about football, anime, gaming, manga, content creators and working out.
 
